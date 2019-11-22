@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="&quot;David&quot; como persona" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-31T02:49:09" hostname="angie-Latitude-E5570" time="6.751">
+  <properties/>
+  <testcase name="Consultar el proceso judicial 00000000" classname="&quot;David&quot; como persona" time="6.751"/>
+  <system-out><![CDATA[?[32m.?[0m?[32m.?[0m?[32m.?[0m]]></system-out>
+  <system-err><![CDATA[Oct 30, 2019 9:49:09 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 75.0.3770.8 (681f24ea911fe754973dda2fdc6d2a2e159dd300-refs/branch-heads/3770@{#40}) on port 31901
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Oct 30, 2019 9:49:11 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
